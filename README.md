@@ -4,11 +4,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Melih Çolak</h1>
-<h3 align="center">A passionate Full Stack Developer from Türkiye</h3>
+<h3 align="center">A passionate Full Stack .NET Core Developer from Türkiye</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🌱 I’m currently learning **C# and MS SQL**
+- 🌱 I’m currently learning **.Net Core Development**
 
 - 📫 How to reach me **melihcolak0@gmail.com**
 
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melihcolak0&show_icons=true&locale=en" alt="melihcolak0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melihcolak0&" alt="melihcolak0" /></p>
+
