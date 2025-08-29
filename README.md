@@ -29,7 +29,19 @@ You can connect with me on:
   </a>
 </p>
 
-### 📊 Statistics
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=melihcolak0&show_icons=true&locale=en" alt="melihcolak0" /></p>
+---
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihcolak0&show_icons=true&locale=en&layout=compact" alt="melihcolak0" /></p>
+### 📊 Statistics
+<table align="left">
+  <tr>
+    <td align="center">
+      <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=melihcolak0&show_icons=true&locale=en" alt="melihcolak0" /></p>
+    </td>
+    <td align="center">
+      <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihcolak0&show_icons=true&locale=en&layout=compact" alt="melihcolak0" /></p>
+    </td>
+  </tr>
+</table>
+
+
+
